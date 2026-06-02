@@ -171,20 +171,9 @@ streamlit run fp.py
 ## 📸 Screenshots
 
 ### Dashboard
-_Add Screenshot Here_
+# FaceAttend Pro AI
 
-### Face Registration
-_Add Screenshot Here_
-
-### Model Training
-_Add Screenshot Here_
-
-### Live Face Recognition
-_Add Screenshot Here_
-
-### Attendance Dashboard
-_Add Screenshot Here_
-
+![Dashboard Preview](face.png)
 ---
 
 ## 🔮 Future Improvements
